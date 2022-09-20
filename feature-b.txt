@@ -1,1 +1,2 @@
 feature b modified with rebase
+feature b modified
